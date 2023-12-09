@@ -1,6 +1,0 @@
-C:/Source/Repos/AI Programming/AI_Lab_02/examples/catchthecat/out/build/x64-Debug/CMakeFiles/catchthecat.dir
-C:/Source/Repos/AI Programming/AI_Lab_02/examples/catchthecat/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Source/Repos/AI Programming/AI_Lab_02/examples/catchthecat/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Source/Repos/AI Programming/AI_Lab_02/examples/catchthecat/out/build/x64-Debug/CMakeFiles/list_install_components.dir
-C:/Source/Repos/AI Programming/AI_Lab_02/examples/catchthecat/out/build/x64-Debug/CMakeFiles/install.dir
-C:/Source/Repos/AI Programming/AI_Lab_02/examples/catchthecat/out/build/x64-Debug/CMakeFiles/install/local.dir
